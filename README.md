@@ -1,2 +1,1 @@
-# Time-Data
- Time&Data clock
+Digital clock
